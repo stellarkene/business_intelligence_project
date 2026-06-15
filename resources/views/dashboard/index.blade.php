@@ -10,9 +10,6 @@
         <h1 class="page-title">Sales Intelligence</h1>
         <p class="page-subtitle">{{ now()->format('l, F j, Y') }} · product_BI database</p>
     </div>
-    <button class="btn btn-outline-accent btn-sm" id="exportBtn">
-        <i class="bi bi-download me-1"></i> Export PDF
-    </button>
 </div>
 
 {{-- ══════════════════════════════════════════════════
